@@ -1,1 +1,2 @@
 # Titanic-Passenger-Survival-Prediction-Logistic-Regression
+The project aims to build a binary classification model using logistic regression to predict whether a passenger aboard the RMS Titanic survived or not based on various features. The dataset contains information about passengers, including their socio-economic status, age, gender, and cabin class, making it suitable for predicting survival outcomes.
